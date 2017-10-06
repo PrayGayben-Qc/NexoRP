@@ -1,1 +1,22 @@
+- Règles générales
+ 
+* N'essayez pas d'exploiter le serveur ou d'agir avec une intention malveillante.
+* Ne tuez pas de façon aléatoire quelqu'un. (Connu sous le nom de RDM - Random Death Match)
+* Ne pas harceler ou déranger les autres joueurs. Cela implique d'être raciste ou délibérément essayer d'offenser les autres.
+* Ne pas spammer. Cela inclut le chat vocal, le chat OOC, les publicités ou toute autre méthode de communication.
+* Ne pas propager la mande. Cela inclut le props climb, surf,kill, block, bridge, push, trap ou le spam.
+* Ne créez pas de signes de texte offensants ou inappropriés.
+* N'utilisez pas un nom RP inapproprié.
+* Laissez les administrateurs faire leur travail, s'ils sont occupés, soyez patient et attendez qu'ils terminent.
+* L'escroquerie pendant les transactions des vendeurs ou toute transaction de jeu de rôle n'est pas autorisée.
+* Dans l'ensemble, utilisez le bon sens et amusez-vous.
 
+
+- Règles de construction
+
+* Un joueur doit pouvoir entrer et quitter votre bâtiment à l'aide d'un cracker ou d'un verrouillage.
+* Ne pas abuser de l'outil de porte décolorée. (Utiliser le pavé numérique pour le renvoyer constamment ou ouvrir et fermer rapidement)
+* Les claviers doivent être connectés à une porte de décoloration fonctionnelle.
+* Les claviers doivent avoir une longueur de maintien de 5 secondes pour les portes de décoloration. (Avec un délai initial de 0)
+* Aucun avantage désorientant, comme les salles noires, les accessoires entièrement invisibles ou les effets de lueur mondiale.
+* Ne pas stocker des entités sur des toits inaccessibles ou des zones inaccessibles en général.
